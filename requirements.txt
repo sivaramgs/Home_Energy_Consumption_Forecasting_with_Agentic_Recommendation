@@ -1,0 +1,33 @@
+# Core Dependencies
+pandas
+numpy
+python-dateutil
+
+# Machine Learning and Feature Engineering
+scikit-learn
+joblib
+prophet
+
+# Visualization
+plotly
+matplotlib
+
+# Backend Inference API
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+
+# Framework
+agent-Framework
+openai
+
+# Optimization 
+optuna
+
+# Email Validation
+pydantic[email]
+
+# Environment
+python-dotenv
